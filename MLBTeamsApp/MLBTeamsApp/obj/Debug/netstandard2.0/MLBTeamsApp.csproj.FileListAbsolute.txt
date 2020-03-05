@@ -13,3 +13,7 @@ C:\Users\Emilp\source\repos\MLBTeamsApp\MLBTeamsApp\MLBTeamsApp\obj\Debug\netsta
 C:\Users\Emilp\source\repos\MLBTeamsApp\MLBTeamsApp\MLBTeamsApp\obj\Debug\netstandard2.0\MLBTeamsApp.csprojAssemblyReference.cache
 C:\Users\Emilp\source\repos\MLBTeamsApp\MLBTeamsApp\MLBTeamsApp\obj\Debug\netstandard2.0\MLBTeamsApp.csproj.Fody.CopyLocal.cache
 C:\Users\Emilp\source\repos\MLBTeamsApp\MLBTeamsApp\MLBTeamsApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Emilp\source\repos\MLBTeamsApp\MLBTeamsApp\MLBTeamsApp\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\Emilp\source\repos\MLBTeamsApp\MLBTeamsApp\MLBTeamsApp\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\Emilp\source\repos\MLBTeamsApp\MLBTeamsApp\MLBTeamsApp\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\Emilp\source\repos\MLBTeamsApp\MLBTeamsApp\MLBTeamsApp\obj\Debug\netstandard2.0\MLBTeamsApp.csproj.CopyComplete

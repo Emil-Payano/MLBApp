@@ -1,4 +1,5 @@
-﻿using MLBPlayersApp.Services;
+﻿using Android.Telecom;
+using MLBPlayersApp.Services;
 using MLBTeamsApp.Models;
 using System;
 using System.Collections.Generic;
@@ -10,12 +11,13 @@ using System.Threading.Tasks;
 using System.Windows.Input;
 using Xamarin.Essentials;
 using Xamarin.Forms;
+using static Android.App.Notification.MessagingStyle;
 
 namespace MLBTeamsApp.ViewModels
 {
    public class TeamsPageViewModel : INotifyPropertyChanged
     {
-        public ObservableCollection<Team> teams { get; set; }
+        public ObservableCollection<Team> Teams { get; set; }
       
         public IApiService _apiService = new ApiService();
 
@@ -43,17 +45,17 @@ namespace MLBTeamsApp.ViewModels
                 {
                     try
                     {
-                        if (IsActiveCheckBox == true)
+                        if (IsActiveCheckBox)
                         {
                             Entry = "N";
 
-                            teams = new ObservableCollection<Team>(await _apiService.GetTeamsList(Entry, SecondEntry));
+                            Teams = new ObservableCollection<Team>(await _apiService.GetTeamsList(Entry, SecondEntry));
                         }
                         else
                         {
                             Entry = "Y";
 
-                            teams = new ObservableCollection<Team>(await _apiService.GetTeamsList(Entry, SecondEntry));
+                            Teams = new ObservableCollection<Team>(await _apiService.GetTeamsList(Entry, SecondEntry));
                         }
                     }
                     catch (Exception ex)
@@ -64,7 +66,7 @@ namespace MLBTeamsApp.ViewModels
                 }
                 else
                 {
-                    //Show internet connection error message HERE
+                await App.Current.MainPage.DisplayAlert("Alert", "You have been alerted", "OK");
                 }
         }
                              

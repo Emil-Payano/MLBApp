@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLBTeamsApp.Android", "MLBT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLBTeamsApp.iOS", "MLBTeamsApp\MLBTeamsApp.iOS\MLBTeamsApp.iOS.csproj", "{1401E536-D867-4E24-A2B7-E1D634CA26B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLBTeamsApp", "MLBTeamsApp\MLBTeamsApp\MLBTeamsApp.csproj", "{61584512-ADA0-4615-881E-765BF831AFE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MLBTeamsApp", "MLBTeamsApp\MLBTeamsApp\MLBTeamsApp.csproj", "{61584512-ADA0-4615-881E-765BF831AFE3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

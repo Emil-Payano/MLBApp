@@ -6,7 +6,7 @@
              mc:Ignorable="d"
              x:Class="MLBTeamsApp.Views.TeamsPage">
     <ContentPage.Content>
-        <ListView ItemsSource="{Binding teams}" HasUnevenRows="True">
+        <ListView ItemsSource="{Binding Teams}" HasUnevenRows="True">
             <ListView.Header>
                 <Grid>
                     <Grid.RowDefinitions>
