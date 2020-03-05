@@ -1,0 +1,15 @@
+C:\Users\Emilp\source\repos\MLBTeamsApp\MLBTeamsApp\MLBTeamsApp\bin\Debug\netstandard2.0\MLBTeamsApp.deps.json
+C:\Users\Emilp\source\repos\MLBTeamsApp\MLBTeamsApp\MLBTeamsApp\bin\Debug\netstandard2.0\MLBTeamsApp.dll
+C:\Users\Emilp\source\repos\MLBTeamsApp\MLBTeamsApp\MLBTeamsApp\bin\Debug\netstandard2.0\ref\MLBTeamsApp.dll
+C:\Users\Emilp\source\repos\MLBTeamsApp\MLBTeamsApp\MLBTeamsApp\bin\Debug\netstandard2.0\MLBTeamsApp.pdb
+C:\Users\Emilp\source\repos\MLBTeamsApp\MLBTeamsApp\MLBTeamsApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Emilp\source\repos\MLBTeamsApp\MLBTeamsApp\MLBTeamsApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Emilp\source\repos\MLBTeamsApp\MLBTeamsApp\MLBTeamsApp\obj\Debug\netstandard2.0\Views\TeamsPage.xaml.g.cs
+C:\Users\Emilp\source\repos\MLBTeamsApp\MLBTeamsApp\MLBTeamsApp\obj\Debug\netstandard2.0\MLBTeamsApp.AssemblyInfoInputs.cache
+C:\Users\Emilp\source\repos\MLBTeamsApp\MLBTeamsApp\MLBTeamsApp\obj\Debug\netstandard2.0\MLBTeamsApp.AssemblyInfo.cs
+C:\Users\Emilp\source\repos\MLBTeamsApp\MLBTeamsApp\MLBTeamsApp\obj\Debug\netstandard2.0\MLBTeamsApp.dll
+C:\Users\Emilp\source\repos\MLBTeamsApp\MLBTeamsApp\MLBTeamsApp\obj\Debug\netstandard2.0\ref\MLBTeamsApp.dll
+C:\Users\Emilp\source\repos\MLBTeamsApp\MLBTeamsApp\MLBTeamsApp\obj\Debug\netstandard2.0\MLBTeamsApp.pdb
+C:\Users\Emilp\source\repos\MLBTeamsApp\MLBTeamsApp\MLBTeamsApp\obj\Debug\netstandard2.0\MLBTeamsApp.csprojAssemblyReference.cache
+C:\Users\Emilp\source\repos\MLBTeamsApp\MLBTeamsApp\MLBTeamsApp\obj\Debug\netstandard2.0\MLBTeamsApp.csproj.Fody.CopyLocal.cache
+C:\Users\Emilp\source\repos\MLBTeamsApp\MLBTeamsApp\MLBTeamsApp\obj\Debug\netstandard2.0\XamlC.stamp
